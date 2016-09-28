@@ -1,1 +1,1 @@
-FROM wlniao/dotnet:last
+FROM wlniao/dotnet:latest
