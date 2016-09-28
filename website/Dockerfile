@@ -1,0 +1,1 @@
+FROM wlniao/dotnet:last
